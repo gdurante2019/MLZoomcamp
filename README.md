@@ -2,7 +2,7 @@
 Repository for DataTalksClub's MLZoomcamp 2025
 
 ## Information from MLZoomcamp 2025's GitHub page 
-(https://github.com/DataTalksClub/machine-learning-zoomcamp):
+https://github.com/DataTalksClub/machine-learning-zoomcamp
 
 ### About ML Zoomcamp
 This is a practical course where you'll learn to build and deploy machine learning systems. We focus on the engineering side from training models to getting them to work in production.
